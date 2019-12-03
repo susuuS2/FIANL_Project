@@ -45,7 +45,7 @@ text-align:left;
 						<li><a href="Recreation/recreation">휴양지 정보 나나나나나나ㅏ나나나나나나</a></li>
 						<li><a href="" >휴양지 등록dddddddddddddddddddddddd</a></li>2
 					</ul></li>ㅇㅁㄴㅇㄴㅁㅇㄴㅁㅇㄴㅁㅇㄴㅁㅇㄴㅁㅇㄴㅁㅇㄴㅁㅇㄴㅁㅇㄴㅁㅇ 잘못수정해쓰
-				<li>carcar
+				<li>carcar 나나나나나나ㅏ나나나나나난 ㅈ애ㅓㅁㄴ;언ㅁㅇㄴ머아
 					<ul class="mainmenu">
 						<li><a href="#">차 등록</a></li>
 						<li><a href="Car/carList">차 목록</a></li>
