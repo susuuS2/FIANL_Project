@@ -43,7 +43,7 @@ text-align:left;
 				<li>여행
 					<ul class="mainmenu">
 						<li><a href="Recreation/recreation">휴양지 정보</a></li>
-						<li><a href="" >휴양지 등록</a></li>
+						<li><a href="" >휴양지 등록dddddddddddddddddddddddd</a></li>
 					</ul></li>
 				<li>carcar
 					<ul class="mainmenu">
